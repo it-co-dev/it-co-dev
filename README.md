@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 it.co
 
-<!--
-**it-co-dev/it-co-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer · Building enterprise systems for Thai public-sector organizations.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+backend:   .NET 8 · C# · ASP.NET Core
+frontend:  Vue.js 3 · Vite · Vanilla JavaScript
+database:  Oracle 19c · MariaDB
+infra:     IIS · Windows Server · Nginx · Azure VM
+ci/cd:     GitHub Actions · self-hosted runners
+testing:   xUnit · integration testing
+
+🎯 Focus Areas
+🔌 API gateway & cross-system data integration
+🔄 SOAP / REST API integration
+🗄️ Stored procedure design + audit logging
+🎨 Enterprise UI component design (custom form components · design systems)
+📋 Multi-channel workflow systems (form validation · draft state · cross-channel processing)
+🛡️ Compliance: ISO 27001 / PDPA
+🏛️ Government data integration patterns
