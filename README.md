@@ -1,4 +1,4 @@
-# 👋 it.co
+# 👋 IT.co
 
 Backend developer · Building enterprise systems for Thai public-sector organizations.
 
